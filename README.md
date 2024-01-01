@@ -3,7 +3,7 @@
 1-ADD MOVE BUTTON 
 is the way to add move by asking the user to enter row and column number
 
-2-REMOVE MOVE BUTTON
+2-DELETE MOVE BUTTON
 Basically its undo button the user use it if choose wrong cell and get to play againg
 
 3-UPDATE BUTTON
